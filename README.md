@@ -1,0 +1,38 @@
+# coin.nvim
+
+when you type character in isnert mode, the coin will appear.
+
+## Installation
+
+- vim-plug
+
+```
+Plug 'miso24/coin.nivm'
+```
+
+- dein.nvim
+
+```
+[[plugins]]
+repo = 'miso24/coin.nvim'
+```
+
+## Usage
+
+enable appearing a coin when you type character
+
+```
+:EnableCoin
+```
+
+disable appearing a coin
+
+```
+:DisableCoin
+```
+
+make a coin appear
+
+```
+:Coin
+```
