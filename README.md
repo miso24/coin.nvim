@@ -1,6 +1,6 @@
 # coin.nvim
 
-when you type character in isnert mode, the coin will appear.
+when you type character in insert mode, the coin will appear.
 
 ![](https://github.com/miso24/coin.nvim/blob/resources/screenshot.gif?raw=true)
 
