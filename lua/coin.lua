@@ -1,7 +1,7 @@
 local util = require('util')
 
 local api = vim.api
-local ns = api.nvim_create_namespace('Normal')
+local ns = api.nvim_create_namespace('coin')
 
 local M = {}
 local is_enable = false
